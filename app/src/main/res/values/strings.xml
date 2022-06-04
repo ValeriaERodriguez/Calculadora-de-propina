@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <!-- Nombre de la Aplicacion -->
+    <string name="app_name">Calculadora de propina</string>
+
+
+    <string name="cost_of_service">Costo del servicio</string>
+
+
+    <string name="how_was_the_service">¿Como estuvo el servicio?</string>
+
+
+    <string name="amazing_service">Excelente (20%)</string>
+
+
+    <string name="good_service">Muy bueno (15%)</string>
+
+
+    <string name="ok_service">Bien (10%)</string>
+
+
+    <string name="round_up_tip">Redondear</string>
+
+
+    <string name="calculate">Calcular</string>
+
+    <!-- Resultado  -->
+    <string name="tip_amount">Cantidad de propina: %s</string>
+</resources>
