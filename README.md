@@ -1,4 +1,9 @@
-Tip Calculator - Solution Code
+# Actividad hechas desde Google Developers / Codelab #
+
+
+
+
+Calculator - Solution Code
 =================================
 
 Solution code for the Android Basics in Kotlin: Tip Calculator app.
